@@ -1,0 +1,48 @@
+  
+ENGLISH REMINDERS
+ 
+PROGRAMIN AMACI
+-Bu programın hedefi, İngilizce seviyenizi bir üst seviyeye taşımak için programdaki binlerce kelimeyi size,
+ sizin belirttiğiniz zaman aralığında ve dilde sormasıdır.
+
+
+AVANTAJLARI
+-Kullanıcıya binlerce kelime sunulur.
+-Yanlış bilinen kelimeler tekrar tekrar kullanıcıya gösterilir.
+-Doğru bilinen kelimeler kullanıcıya gösterilmez.
+-Kelime cevaplanana kadar veya çıkış cümlesini yazılana kadar programdan çıkış yapılamaz.
+-Bir kullanıcının kelimelerinde değişiklik yapması, diğer kullanıcıları etkilemez.
+-Her kullanıcı kendi kelimelerini ekleyebilir,mevcut kelimeleri silebilir.
+-Bilinen kelime sayısı ve bilinmeyen kelime sayısı ve buna bağlı olarak kullanıcı puanı, kullanıcıya gösterilir.
+-İstenen bir aralık seçilerek kullanıcının kendi istediği zaman aralığında kelimelerin gösterilmesi sağlanır.
+-Kullanıcının isteğine göre kelimenin Türkçe, İngilizce veya rastgele bir şekilde sorulması sağlanabilir.
+-Puan bilgisi sıfırlanıp, yeni bir başlangıç yapılabilir.
+
+
+-NASIL KULLANILIR ?
+-Program başlatıldığında Kullanıcı Giriş sayfası bizi karşılar. Eğer kullanıcı kaydınız var ise gerekli 
+bilgileri doldurup programa giriş yapabilirsiniz.
+-Eğer kullanıcı kaydınız yoksa oluşturmak için "Hesabın yoksa giriş yapmak için KAYDOL.." kısmına tıklayarak
+kayıt sayfasına yönlendirileceksiniz.
+-Kayıt sayfasında kullanıcı adı,şifre,şifre tekrar ve isim alanları doldurularak, kullanıcının kayıt olması sağlanır.
+-Kullanıcı kaydı tamamlandıktan sonra giriş sayfasına yönlendirilirsiniz ve buradan giriş yapabilirsiniz.
+-Giriş yapıldığında uygulama sayfası sizi karşılar.
+-Sorulacak dil kısmındaki seçeneklerden birini seçerek size Türkçe bir kelime gösterilip İngilizce cevap istenilmesini,
+İngilizce bir kelime gösterilip, Türkçe cevap istenilmesini veya bu seçeneklerin rastgele olarak gösterilmesi sağlanır.
+-Tekrar süresi kısmından sorulacak kelimenin zaman aralığı seçilebilir.
+-Puan kısmından cevapladığınız kelimelerin, doğru sayısını, yanlış sayısını ve buna bağlı olarak puanınızı görüntüleyebilirsiniz.
+-"Puan Bilgisi Sıfırla" butonuyla puan tablonuzu sıfırlayabilirsiniz.
+-Her doğru cevap için puanınız 10 artar, her yanlış cevabınız için puanınız 5 azalır.
+-Sağ alt kısımda yer alan ayarlar simgesine tıklayarak, kendi kelimelerinizi oluşturabilir, silebilir veya değiştirebilirsiniz. 
+-Kelimeyi silmek veya değiştirmek için tabloda kelimenin Türkçe kısmını seçmeniz gerekir.
+-Başlat butonuna basıldığında belirtilen süre zarfında kelimeler gösterilmeye başlanır.
+-Başlat butonuna basıldığı anda puanımızı gösteren küçük bir ekran da bizi karşılar.
+-Cevaplarınızın büyük küçük harf uyumluluğuna bakılmaz.
+-Uygulamadan çıkmak için cevaba "Exit Çıkış" yazmanız yeterlidir.
+-Kelimeler sonlandığında bir uyarı gösterilerek uygulamadan çıkış yapılır.
+-Kelimeler sonlandığında, tekrar kelimeleri alabilmek için giriş yapılıp, "Puan Bilgisi Sıfırla" butonuna tıklanmalıdır.
+
+
+
+
+
